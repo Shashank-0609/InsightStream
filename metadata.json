@@ -1,0 +1,6 @@
+{
+  "name": "InsightStream",
+  "description": "A professional, AI-powered data visualization platform for analyzing CSV and JSON datasets with dynamic charts, interactive filters, and automated insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
